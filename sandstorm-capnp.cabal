@@ -20,7 +20,7 @@ library
   -- other-modules:
   -- other-extensions:
   build-depends:
-      base >=4.12 && <4.13
+      base >=4.11 && <4.13
     , capnp >=0.4 && <0.5
     , bytestring
     , text
