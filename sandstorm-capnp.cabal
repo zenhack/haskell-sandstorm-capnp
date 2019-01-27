@@ -22,13 +22,6 @@ library
   build-depends:
       base >=4.11 && <4.13
     , capnp >=0.4 && <0.5
-    , bytestring
-    , text
-    , supervisors
-    , vector
-    , stm
-    , exceptions
-    , data-default
   hs-source-dirs:      gen
   default-language:    Haskell2010
   exposed-modules:
